@@ -71,7 +71,9 @@ hr {
 
 .bottom-container {
   background-color: #DCD6F7;
+  bottom:0;
   padding: 50px 0 20px;
+  position:absolute;
 }
 
 .skill-row {
